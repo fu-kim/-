@@ -1,0 +1,29 @@
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Models\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Models\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Models\obj\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Models\obj\Debug\Models.pdb
+E:\KaMiFood\Food\Models\bin\Debug\Models.dll
+E:\KaMiFood\Food\Models\bin\Debug\Models.pdb
+E:\KaMiFood\Food\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\KaMiFood\Food\Models\obj\Debug\Models.dll
+E:\KaMiFood\Food\Models\obj\Debug\Models.pdb
+F:\QQ文档\KaMiFood\Food\Models\bin\Debug\Models.dll
+F:\QQ文档\KaMiFood\Food\Models\bin\Debug\Models.pdb
+F:\QQ文档\KaMiFood\Food\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\QQ文档\KaMiFood\Food\Models\obj\Debug\Models.dll
+F:\QQ文档\KaMiFood\Food\Models\obj\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Models\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Models\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Models\obj\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Models\obj\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Models\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Models\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Models\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Models\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Models\obj\Debug\Models.pdb

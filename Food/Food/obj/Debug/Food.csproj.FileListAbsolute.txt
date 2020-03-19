@@ -1,0 +1,330 @@
+E:\一学期\Food\Food\bin\Debug\Food.exe.config
+E:\一学期\Food\Food\bin\Debug\Food.exe
+E:\一学期\Food\Food\bin\Debug\Food.pdb
+E:\一学期\Food\Food\bin\Debug\C1.C1Excel.2.dll
+E:\一学期\Food\Food\bin\Debug\CSkin.dll
+E:\一学期\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\一学期\Food\Food\bin\Debug\C1.C1Excel.2.xml
+E:\一学期\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\一学期\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+E:\一学期\Food\Food\obj\Debug\Food.FrmLogin.resources
+E:\一学期\Food\Food\obj\Debug\Food.Properties.Resources.resources
+E:\一学期\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+E:\一学期\Food\Food\obj\Debug\Food.exe.licenses
+E:\一学期\Food\Food\obj\Debug\Food.exe
+E:\一学期\Food\Food\obj\Debug\Food.pdb
+E:\一学期\Food\Food\obj\Debug\Food.FrmMain.resources
+E:\一学期\Food\Food\obj\Debug\Food.FoodManager.UCTableList.resources
+E:\一学期\Food\Food\obj\Debug\Food.TableManager.UCTableManagerMain.resources
+E:\一学期\Food\Food\obj\Debug\Food.TableManager.UCTableStatistics.resources
+E:\一学期\Food\Food\obj\Debug\Food.FoodManager.UCFoodManagerMain.resources
+E:\一学期\Food\Food\obj\Debug\Food.FoodManager.UCFoodList.resources
+E:\一学期\Food\Food\obj\Debug\Food.FoodManager.UCFoodStatistics.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\C1.C1Excel.2.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\obj\Debug\Food.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\Food\Food\bin\Debug\DAL.pdb
+E:\KaMiFood\Food\Food\bin\Debug\Food.exe.config
+E:\KaMiFood\Food\Food\obj\Debug\Food.exe
+E:\KaMiFood\Food\Food\obj\Debug\Food.pdb
+E:\KaMiFood\Food\Food\bin\Debug\Food.exe
+E:\KaMiFood\Food\Food\bin\Debug\Food.pdb
+E:\KaMiFood\Food\Food\bin\Debug\BLL.dll
+E:\KaMiFood\Food\Food\bin\Debug\CSkin.dll
+E:\KaMiFood\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\KaMiFood\Food\Food\bin\Debug\Models.dll
+E:\KaMiFood\Food\Food\bin\Debug\DAL.dll
+E:\KaMiFood\Food\Food\bin\Debug\BLL.pdb
+E:\KaMiFood\Food\Food\bin\Debug\Models.pdb
+E:\KaMiFood\Food\Food\bin\Debug\C1.C1Excel.2.xml
+E:\KaMiFood\Food\Food\bin\Debug\DAL.pdb
+E:\KaMiFood\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\KaMiFood\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+E:\KaMiFood\Food\Food\obj\Debug\Food.FrmLogin.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.FrmMain.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.FrmTable.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.FrmTableInfo.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.Properties.Resources.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+E:\KaMiFood\Food\Food\obj\Debug\Food.exe.licenses
+E:\KaMiFood\Food\Food\obj\Debug\Food.OrderManager.resources
+E:\KaMiFood\Food\Food\obj\Debug\Food.FrmOrderInfo.resources
+E:\KaMiFood\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\KaMiFood\Food\Food\bin\Debug\NPOI.dll
+E:\KaMiFood\Food\Food\bin\Debug\NPOI.OOXML.dll
+E:\KaMiFood\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+E:\KaMiFood\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\KaMiFood\Food\Food\bin\Debug\ExcelDataReader.dll
+E:\KaMiFood\Food\Food\bin\Debug\ExcelDataReader.xml
+E:\KaMiFood\Food\Food\obj\Debug\Interop.Office.dll
+E:\KaMiFood\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+E:\KaMiFood\Food\Food\obj\Debug\Food.UserManager.resources
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Food.exe.config
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.exe
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.pdb
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Food.exe
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Food.pdb
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\BLL.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\C1.C1Excel.2.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\CSkin.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\ExcelDataReader.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Models.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\NPOI.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\NPOI.OOXML.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\DAL.dll
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\BLL.pdb
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\Models.pdb
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\C1.C1Excel.2.xml
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\ExcelDataReader.xml
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\DAL.pdb
+F:\QQ文档\KaMiFood\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.Properties.Resources.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\Food.exe.licenses
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmFood.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmMain.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmTable.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.OrderManager.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\AddFood.UserManager.resources
+F:\QQ文档\KaMiFood\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\ExcelDataReader.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OOXML.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\C1.C1Excel.2.xml
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\ExcelDataReader.xml
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\DAL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmFood.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.OrderManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.UserManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\ExcelDataReader.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OOXML.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\ExcelDataReader.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\DAL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmFood.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.OrderManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\AddFood.UserManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.FrmAssociator.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.FrmAssociator.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmFood.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.OrderManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.UserManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.StaffInfoManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.FrmStaffInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ExcelDataReader.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OOXML.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\C1.C1Excel.2.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ExcelDataReader.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\DAL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem - 副本\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.exe.config
+G:\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+G:\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.exe
+G:\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ExcelDataReader.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\MetroFramework.Design.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\MetroFramework.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OOXML.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\C1.C1Excel.2.xml
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\ExcelDataReader.xml
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\DAL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.FrmAssociator.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmFood.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.FrmStaffInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.OrderManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.StaffInfoManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\AddFood.UserManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\KaMiFoodSystem - 副本\Food\Food\bin\Debug\LayeredSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Food.exe.config
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.csproj.ResolveComReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Food.exe
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Food.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\BLL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\CSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\DAL.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\ExcelDataReader.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\LayeredSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\MetroFramework.Design.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\MetroFramework.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Models.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\NPOI.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\NPOI.OOXML.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\BLL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\DAL.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\Models.pdb
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\C1.C1Excel.2.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\ExcelDataReader.xml
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.csprojResolveAssemblyReference.cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\FrmActivity.FrmActivity.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmAdd.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.FrmAssociator.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmFood.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmLogin.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmMain.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmOrderInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.FrmStaffInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmTable.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.FrmTableInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.OrderManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.Properties.Resources.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.StaffInfoManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\AddFood.UserManager.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.csproj.GenerateResource.Cache
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFood_最终版本\Food\Food\obj\Debug\Food.exe.licenses
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\LayeredSkin.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\MetroFramework.Design.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\MetroFramework.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.FrmStaffInfo.resources
+C:\Users\郭嘉怡小仙女\Desktop\咔咪\KaMiFood\KaMiFoodSystem\Food\Food\obj\Debug\Food.StaffInfoManager.resources
